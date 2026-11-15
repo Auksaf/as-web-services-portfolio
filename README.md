@@ -30,11 +30,22 @@ My own perfume business website, developed to establish the brand's online prese
 
 **Website:** https://auksaf.com
 
-### 3. TextForge
 
-My first API project, marking my practical work in backend development and REST APIs.
+### 3. TextForge — REST API
 
-**Repository:** https://github.com/Auksaf/TextForge
+A lightweight REST API built with Node.js and Express for programmatic text cleaning and normalization.
+
+**Key capabilities:**
+- Text cleaning and normalization
+- Consistent text formatting
+- Punctuation correction
+- Sentence casing
+- Optional emoji removal
+
+**Technology:** Node.js, Express.js, REST API
+
+**GitHub Repository:** https://github.com/auksaf/TextForge
+
 
 ### 4. BayWall & Wharf
 
