@@ -1,16 +1,19 @@
 
 # AS Web Services
 
-### Practical Web Solutions for Small Businesses
+### Web Development | Business Websites | Backend APIs
 
-I design and develop modern, responsive websites that help small businesses present their services, showcase their products, and receive customer inquiries online.
+I build practical web solutions for businesses, combining modern frontend development with backend programming.
+
+My work includes business websites, product catalogues, customer inquiry systems, and REST API development.
 
 ## Services
 
 - Business websites and landing pages
 - Product and service catalogues
 - WhatsApp inquiry integration
-- Responsive website design
+- Responsive web design
+- REST API development
 - Website deployment
 
 ## Selected Projects
@@ -23,16 +26,36 @@ A nursery website demo featuring a plant catalogue with images and details. Visi
 
 ### 2. AUKSAF
 
-A website for an independent perfume business, built to present its brand and products and support customer orders.
+My own perfume business website, developed to establish the brand's online presence and present its products.
 
 **Website:** https://auksaf.com
 
-## Technologies
+### 3. TextForge
+
+My first API project, marking my practical work in backend development and REST APIs.
+
+**Repository:** [Add GitHub repository link]
+
+### 4. BayWall & Wharf
+
+A client website project.
+
+**Website:** [baywallandwharf.com]
+
+### 5. New Daily Needs
+
+A client website project.
+
+**Website:** [newdailyneeds.com]
+
+## Technologies & Tools
 
 - Next.js
 - React
 - JavaScript
 - TypeScript
+- Node.js
+- REST APIs
 - Tailwind CSS
 - Supabase
 - Git and GitHub
