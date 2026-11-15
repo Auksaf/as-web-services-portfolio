@@ -40,13 +40,13 @@ My first API project, marking my practical work in backend development and REST 
 
 A client website project.
 
-**Website:** [baywallandwharf.com]
+**Website:** https://baywallandwharf.com/
 
 ### 5. New Daily Needs
 
 A client website project.
 
-**Website:** [newdailyneeds.com]
+**Website:** https://www.newdailyneeds.com/
 
 ## Technologies & Tools
 
